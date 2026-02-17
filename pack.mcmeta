@@ -1,1 +1,7 @@
-{"pack":{"description":"Server Resource Pack","min_format": 88,"max_format": 94.1}}
+{
+  "pack": {
+    "description": "Server Resource Pack",
+    "min_format": 88,
+    "max_format": 88
+  }
+}
