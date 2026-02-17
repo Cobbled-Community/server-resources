@@ -4,60 +4,70 @@
             "type": "bitmap",
             "file": "server:font/head_admin.png",
             "ascent": 7,
+            "height": 8,
             "chars": ["A"]
         },
         {
             "type": "bitmap",
             "file": "server:font/admin.png",
             "ascent": 7,
+            "height": 8,
             "chars": ["a"]
         },
         {
             "type": "bitmap",
             "file": "server:font/mod.png",
             "ascent": 7,
+            "height": 8,
             "chars": ["M"]
         },
         {
             "type": "bitmap",
             "file": "server:font/dev.png",
             "ascent": 7,
+            "height": 8,
             "chars": ["D"]
         },
         {
             "type": "bitmap",
             "file": "server:font/builder.png",
             "ascent": 7,
+            "height": 8,
             "chars": ["B"]
         },
         {
             "type": "bitmap",
             "file": "server:font/tester.png",
             "ascent": 7,
+            "height": 8,
             "chars": ["T"]
         },
         {
             "type": "bitmap",
             "file": "server:font/exec.png",
             "ascent": 7,
+            "height": 8,
             "chars": ["E"]
         },
         {
             "type": "bitmap",
             "file": "server:font/vip.png",
             "ascent": 7,
+            "height": 8,
             "chars": ["V"]
         },
         {
             "type": "bitmap",
             "file": "server:font/member.png",
             "ascent": 7,
+            "height": 8,
             "chars": ["m"]
         },
         {
             "type": "bitmap",
             "file": "server:font/guest.png",
             "ascent": 7,
+            "height": 8,
             "chars": ["G"]
         }
     ]
